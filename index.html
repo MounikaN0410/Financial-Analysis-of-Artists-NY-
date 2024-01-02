@@ -1,0 +1,40 @@
+<html>
+<head>
+
+    <title>Financial Stories of Artists in New York</title>
+
+    <script type="text/javascript"
+	    src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
+    <script type="text/javascript"></script>
+    <link rel="stylesheet" href="index.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        h1 {
+            font-family: 'Playfair Display', serif;
+            /* Other styles for your title */
+        }
+    </style>
+</head>
+
+<body>
+
+  <h1>Financial Stories of Artists in New York</h1>
+  
+    <div class="dashboard-description">
+      <p> This exploration soughts to unveil the captivating narrative where the realms of expression and economics collide, shaping the journey of artists.
+        This analysis dashboard offers a comprehensive insight into the financial landscapes of various artists residing in different counties throughout New York. Uncover a detailed analysis showcasing the economic realities experienced by diverse artists, including painters, musicians, performers, and more.</p>
+  </div>
+  <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
+    <button id="exportPDF">Generate PDF</button>
+    <button id="exportImage">Generate Image</button>
+</div>
+  
+
+
+    <div id="vizContainer"></div>
+
+    <script src="./app.js"></script>
+
+</body>
+
+</html>
