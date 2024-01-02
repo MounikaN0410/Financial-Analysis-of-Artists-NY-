@@ -16,3 +16,6 @@ The dashboard offers a comprehensive analysis of the financial stability across 
 ### Tableau Dashboard Link
 
 [View Dashboard](https://public.tableau.com/views/CRNY_17002832830670/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+### Web page Link
+https://mounikan0410.github.io/Financial-Analysis-of-Artists-NY-/
